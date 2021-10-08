@@ -11,7 +11,7 @@
     "supertest": "^6.1.6"
   },
   "scripts": {
-    "start": "node server",
+    "start": "nodemon server",
     "test": "jest"
   }
 }
